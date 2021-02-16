@@ -1,0 +1,2254 @@
+{
+  "films": [
+    [
+      {
+        "film Title": "The Shawshank Redemption",
+        "rate": "9.3/10",
+        "director": "Frank Darabont",
+        "film IMDb URL": "https://www.imdb.com//title/tt0111161/",
+        "Last Update Time": "17:50:10.714703"
+      }
+    ],
+    [
+      {
+        "film Title": "Seven Samurai",
+        "rate": "8.6/10",
+        "director": "Akira Kurosawa",
+        "film IMDb URL": "https://www.imdb.com//title/tt0047478/",
+        "Last Update Time": "17:50:11.130900"
+      }
+    ],
+    [
+      {
+        "film Title": "The Lord of the Rings: The Two Towers",
+        "rate": "8.7/10",
+        "director": "Peter Jackson",
+        "film IMDb URL": "https://www.imdb.com//title/tt0167261/",
+        "Last Update Time": "17:50:11.365154"
+      }
+    ],
+    [
+      {
+        "film Title": "Forrest Gump",
+        "rate": "8.8/10",
+        "director": "Robert Zemeckis",
+        "film IMDb URL": "https://www.imdb.com//title/tt0109830/",
+        "Last Update Time": "17:50:11.463103"
+      }
+    ],
+    [
+      {
+        "film Title": "Goodfellas",
+        "rate": "8.7/10",
+        "director": "Martin Scorsese",
+        "film IMDb URL": "https://www.imdb.com//title/tt0099685/",
+        "Last Update Time": "17:50:11.495456"
+      }
+    ],
+    [
+      {
+        "film Title": "One Flew Over the Cuckoo's Nest",
+        "rate": "8.7/10",
+        "director": "Milos Forman",
+        "film IMDb URL": "https://www.imdb.com//title/tt0073486/",
+        "Last Update Time": "17:50:11.517876"
+      }
+    ],
+    [
+      {
+        "film Title": "Fight Club",
+        "rate": "8.8/10",
+        "director": "David Fincher",
+        "film IMDb URL": "https://www.imdb.com//title/tt0137523/",
+        "Last Update Time": "17:50:11.861729"
+      }
+    ],
+    [
+      {
+        "film Title": "The Good, the Bad and the Ugly",
+        "rate": "8.8/10",
+        "director": "Sergio Leone",
+        "film IMDb URL": "https://www.imdb.com//title/tt0060196/",
+        "Last Update Time": "17:50:12.225927"
+      }
+    ],
+    [
+      {
+        "film Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "rate": "8.8/10",
+        "director": "Peter Jackson",
+        "film IMDb URL": "https://www.imdb.com//title/tt0120737/",
+        "Last Update Time": "17:50:12.261062"
+      }
+    ],
+    [
+      {
+        "film Title": "Pulp Fiction",
+        "rate": "8.9/10",
+        "director": "Quentin Tarantino",
+        "film IMDb URL": "https://www.imdb.com//title/tt0110912/",
+        "Last Update Time": "17:50:12.305992"
+      }
+    ],
+    [
+      {
+        "film Title": "Inception",
+        "rate": "8.8/10",
+        "director": "Christopher Nolan",
+        "film IMDb URL": "https://www.imdb.com//title/tt1375666/",
+        "Last Update Time": "17:50:12.405546"
+      }
+    ],
+    [
+      {
+        "film Title": "The Matrix",
+        "rate": "8.7/10",
+        "director": "Lana Wachowski",
+        "film IMDb URL": "https://www.imdb.com//title/tt0133093/",
+        "Last Update Time": "17:50:12.440677"
+      }
+    ],
+    [
+      {
+        "film Title": "Schindler's List",
+        "rate": "8.9/10",
+        "director": "Steven Spielberg",
+        "film IMDb URL": "https://www.imdb.com//title/tt0108052/",
+        "Last Update Time": "17:50:12.482937"
+      }
+    ],
+    [
+      {
+        "film Title": "The Lord of the Rings: The Return of the King",
+        "rate": "8.9/10",
+        "director": "Peter Jackson",
+        "film IMDb URL": "https://www.imdb.com//title/tt0167260/",
+        "Last Update Time": "17:50:12.540531"
+      }
+    ],
+    [
+      {
+        "film Title": "12 Angry Men",
+        "rate": "8.9/10",
+        "director": "Sidney Lumet",
+        "film IMDb URL": "https://www.imdb.com//title/tt0050083/",
+        "Last Update Time": "17:50:12.805553"
+      }
+    ],
+    [
+      {
+        "film Title": "Star Wars: Episode V - The Empire Strikes Back",
+        "rate": "8.7/10",
+        "director": "Irvin Kershner",
+        "film IMDb URL": "https://www.imdb.com//title/tt0080684/",
+        "Last Update Time": "17:50:13.189891"
+      }
+    ],
+    [
+      {
+        "film Title": "Swades",
+        "rate": "8.2/10",
+        "director": "Ashutosh Gowariker",
+        "film IMDb URL": "https://www.imdb.com//title/tt0367110/",
+        "Last Update Time": "17:50:13.224048"
+      }
+    ],
+    [
+      {
+        "film Title": "Three Colors: Red",
+        "rate": "8.1/10",
+        "director": "Krzysztof Kieslowski",
+        "film IMDb URL": "https://www.imdb.com//title/tt0111495/",
+        "Last Update Time": "17:50:13.322107"
+      }
+    ],
+    [
+      {
+        "film Title": "Throne of Blood",
+        "rate": "8.1/10",
+        "director": "Akira Kurosawa",
+        "film IMDb URL": "https://www.imdb.com//title/tt0050613/",
+        "Last Update Time": "17:50:13.368977"
+      }
+    ],
+    [
+      {
+        "film Title": "Butch Cassidy and the Sundance Kid",
+        "rate": "8.0/10",
+        "director": "George Roy Hill",
+        "film IMDb URL": "https://www.imdb.com//title/tt0064115/",
+        "Last Update Time": "17:50:13.422475"
+      }
+    ],
+    [
+      {
+        "film Title": "Aladdin",
+        "rate": "8.0/10",
+        "director": "Ron Clements",
+        "film IMDb URL": "https://www.imdb.com//title/tt0103639/",
+        "Last Update Time": "17:50:13.692999"
+      }
+    ],
+    [
+      {
+        "film Title": "Fanny and Alexander",
+        "rate": "8.1/10",
+        "director": "Ingmar Bergman",
+        "film IMDb URL": "https://www.imdb.com//title/tt0083922/",
+        "Last Update Time": "17:50:13.786119"
+      }
+    ],
+    [
+      {
+        "film Title": "Munna Bhai M.B.B.S.",
+        "rate": "8.1/10",
+        "director": "Rajkumar Hirani",
+        "film IMDb URL": "https://www.imdb.com//title/tt0374887/",
+        "Last Update Time": "17:50:14.041027"
+      }
+    ],
+    [
+      {
+        "film Title": "The Invisible Guest",
+        "rate": "8.1/10",
+        "director": "Oriol Paulo",
+        "film IMDb URL": "https://www.imdb.com//title/tt4857264/",
+        "Last Update Time": "17:50:14.100154"
+      }
+    ],
+    [
+      {
+        "film Title": "The Terminator",
+        "rate": "8.0/10",
+        "director": "James Cameron",
+        "film IMDb URL": "https://www.imdb.com//title/tt0088247/",
+        "Last Update Time": "17:50:14.124555"
+      }
+    ],
+    [
+      {
+        "film Title": "Tangerines",
+        "rate": "8.2/10",
+        "director": "Zaza Urushadze",
+        "film IMDb URL": "https://www.imdb.com//title/tt2991224/",
+        "Last Update Time": "17:50:14.173172"
+      }
+    ],
+    [
+      {
+        "film Title": "The Princess Bride",
+        "rate": "8.1/10",
+        "director": "Rob Reiner",
+        "film IMDb URL": "https://www.imdb.com//title/tt0093779/",
+        "Last Update Time": "17:50:14.197678"
+      }
+    ],
+    [
+      {
+        "film Title": "Drishyam",
+        "rate": "8.2/10",
+        "director": "Nishikant Kamat",
+        "film IMDb URL": "https://www.imdb.com//title/tt4430212/",
+        "Last Update Time": "17:50:14.444229"
+      }
+    ],
+    [
+      {
+        "film Title": "Before Sunset",
+        "rate": "8.0/10",
+        "director": "Richard Linklater",
+        "film IMDb URL": "https://www.imdb.com//title/tt0381681/",
+        "Last Update Time": "17:50:14.692394"
+      }
+    ],
+    [
+      {
+        "film Title": "The Help",
+        "rate": "8.1/10",
+        "director": "Tate Taylor",
+        "film IMDb URL": "https://www.imdb.com//title/tt1454029/",
+        "Last Update Time": "17:50:14.717738"
+      }
+    ],
+    [
+      {
+        "film Title": "Paris, Texas",
+        "rate": "8.1/10",
+        "director": "Wim Wenders",
+        "film IMDb URL": "https://www.imdb.com//title/tt0087884/",
+        "Last Update Time": "17:50:14.968009"
+      }
+    ],
+    [
+      {
+        "film Title": "Gangs of Wasseypur",
+        "rate": "8.2/10",
+        "director": "Anurag Kashyap",
+        "film IMDb URL": "https://www.imdb.com//title/tt1954470/",
+        "Last Update Time": "17:50:15.198139"
+      }
+    ],
+    [
+      {
+        "film Title": "In the Mood for Love",
+        "rate": "8.1/10",
+        "director": "Kar-Wai Wong",
+        "film IMDb URL": "https://www.imdb.com//title/tt0118694/",
+        "Last Update Time": "17:50:15.224492"
+      }
+    ],
+    [
+      {
+        "film Title": "Portrait of a Lady on Fire",
+        "rate": "8.1/10",
+        "director": "C\u00e9line Sciamma",
+        "film IMDb URL": "https://www.imdb.com//title/tt8613070/",
+        "Last Update Time": "17:50:15.260572"
+      }
+    ],
+    [
+      {
+        "film Title": "It Happened One Night",
+        "rate": "8.1/10",
+        "director": "Frank Capra",
+        "film IMDb URL": "https://www.imdb.com//title/tt0025316/",
+        "Last Update Time": "17:50:15.286924"
+      }
+    ],
+    [
+      {
+        "film Title": "Monsters, Inc.",
+        "rate": "8.0/10",
+        "director": "Pete Docter",
+        "film IMDb URL": "https://www.imdb.com//title/tt0198781/",
+        "Last Update Time": "17:50:15.427572"
+      }
+    ],
+    [
+      {
+        "film Title": "La Haine",
+        "rate": "8.1/10",
+        "director": "Mathieu Kassovitz",
+        "film IMDb URL": "https://www.imdb.com//title/tt0113247/",
+        "Last Update Time": "17:50:15.471597"
+      }
+    ],
+    [
+      {
+        "film Title": "Rebecca",
+        "rate": "8.1/10",
+        "director": "Alfred Hitchcock",
+        "film IMDb URL": "https://www.imdb.com//title/tt0032976/",
+        "Last Update Time": "17:50:15.520929"
+      }
+    ],
+    [
+      {
+        "film Title": "Nausica\u00e4 of the Valley of the Wind",
+        "rate": "8.1/10",
+        "director": "Hayao Miyazaki",
+        "film IMDb URL": "https://www.imdb.com//title/tt0087544/",
+        "Last Update Time": "17:50:16.114774"
+      }
+    ],
+    [
+      {
+        "film Title": "Rocky",
+        "rate": "8.1/10",
+        "director": "John G. Avildsen",
+        "film IMDb URL": "https://www.imdb.com//title/tt0075148/",
+        "Last Update Time": "17:50:16.142096"
+      }
+    ],
+    [
+      {
+        "film Title": "The Handmaiden",
+        "rate": "8.1/10",
+        "director": "Chan-wook Park",
+        "film IMDb URL": "https://www.imdb.com//title/tt4016934/",
+        "Last Update Time": "17:50:16.167497"
+      }
+    ],
+    [
+      {
+        "film Title": "Spotlight",
+        "rate": "8.1/10",
+        "director": "Tom McCarthy",
+        "film IMDb URL": "https://www.imdb.com//title/tt1895587/",
+        "Last Update Time": "17:50:16.213610"
+      }
+    ],
+    [
+      {
+        "film Title": "The 400 Blows",
+        "rate": "8.1/10",
+        "director": "Fran\u00e7ois Truffaut",
+        "film IMDb URL": "https://www.imdb.com//title/tt0053198/",
+        "Last Update Time": "17:50:16.300724"
+      }
+    ],
+    [
+      {
+        "film Title": "Rang De Basanti",
+        "rate": "8.2/10",
+        "director": "Rakeysh Omprakash Mehra",
+        "film IMDb URL": "https://www.imdb.com//title/tt0405508/",
+        "Last Update Time": "17:50:16.401662"
+      }
+    ],
+    [
+      {
+        "film Title": "Amores Perros",
+        "rate": "8.1/10",
+        "director": "Alejandro G. I\u00f1\u00e1rritu",
+        "film IMDb URL": "https://www.imdb.com//title/tt0245712/",
+        "Last Update Time": "17:50:16.444120"
+      }
+    ],
+    [
+      {
+        "film Title": "Hotel Rwanda",
+        "rate": "8.1/10",
+        "director": "Terry George",
+        "film IMDb URL": "https://www.imdb.com//title/tt0395169/",
+        "Last Update Time": "17:50:16.480461"
+      }
+    ],
+    [
+      {
+        "film Title": "The Passion of Joan of Arc",
+        "rate": "8.1/10",
+        "director": "Carl Theodor Dreyer",
+        "film IMDb URL": "https://www.imdb.com//title/tt0019254/",
+        "Last Update Time": "17:50:16.782233"
+      }
+    ],
+    [
+      {
+        "film Title": "Andrei Rublev",
+        "rate": "8.1/10",
+        "director": "Andrei Tarkovsky",
+        "film IMDb URL": "https://www.imdb.com//title/tt0060107/",
+        "Last Update Time": "17:50:16.971226"
+      }
+    ],
+    [
+      {
+        "film Title": "Harry Potter and the Deathly Hallows: Part 2",
+        "rate": "8.1/10",
+        "director": "David Yates",
+        "film IMDb URL": "https://www.imdb.com//title/tt1201607/",
+        "Last Update Time": "17:50:17.172229"
+      }
+    ],
+    [
+      {
+        "film Title": "Monty Python's Life of Brian",
+        "rate": "8.1/10",
+        "director": "Terry Jones",
+        "film IMDb URL": "https://www.imdb.com//title/tt0079470/",
+        "Last Update Time": "17:50:17.197641"
+      }
+    ],
+    [
+      {
+        "film Title": "Logan",
+        "rate": "8.1/10",
+        "director": "James Mangold",
+        "film IMDb URL": "https://www.imdb.com//title/tt3315342/",
+        "Last Update Time": "17:50:17.379672"
+      }
+    ],
+    [
+      {
+        "film Title": "Ben-Hur",
+        "rate": "8.1/10",
+        "director": "William Wyler",
+        "film IMDb URL": "https://www.imdb.com//title/tt0052618/",
+        "Last Update Time": "17:50:17.514207"
+      }
+    ],
+    [
+      {
+        "film Title": "Dead Poets Society",
+        "rate": "8.1/10",
+        "director": "Peter Weir",
+        "film IMDb URL": "https://www.imdb.com//title/tt0097165/",
+        "Last Update Time": "17:50:17.560442"
+      }
+    ],
+    [
+      {
+        "film Title": "Platoon",
+        "rate": "8.1/10",
+        "director": "Oliver Stone",
+        "film IMDb URL": "https://www.imdb.com//title/tt0091763/",
+        "Last Update Time": "17:50:17.621930"
+      }
+    ],
+    [
+      {
+        "film Title": "Hachi: A Dog's Tale",
+        "rate": "8.1/10",
+        "director": "Lasse Hallstr\u00f6m",
+        "film IMDb URL": "https://www.imdb.com//title/tt1028532/",
+        "Last Update Time": "17:50:17.646420"
+      }
+    ],
+    [
+      {
+        "film Title": "Rush",
+        "rate": "8.1/10",
+        "director": "Ron Howard",
+        "film IMDb URL": "https://www.imdb.com//title/tt1979320/",
+        "Last Update Time": "17:50:17.720512"
+      }
+    ],
+    [
+      {
+        "film Title": "Into the Wild",
+        "rate": "8.1/10",
+        "director": "Sean Penn",
+        "film IMDb URL": "https://www.imdb.com//title/tt0758758/",
+        "Last Update Time": "17:50:18.143334"
+      }
+    ],
+    [
+      {
+        "film Title": "Million Dollar Baby",
+        "rate": "8.1/10",
+        "director": "Clint Eastwood",
+        "film IMDb URL": "https://www.imdb.com//title/tt0405159/",
+        "Last Update Time": "17:50:18.198588"
+      }
+    ],
+    [
+      {
+        "film Title": "The Wages of Fear",
+        "rate": "8.1/10",
+        "director": "Henri-Georges Clouzot",
+        "film IMDb URL": "https://www.imdb.com//title/tt0046268/",
+        "Last Update Time": "17:50:18.223961"
+      }
+    ],
+    [
+      {
+        "film Title": "Stand by Me",
+        "rate": "8.1/10",
+        "director": "Rob Reiner",
+        "film IMDb URL": "https://www.imdb.com//title/tt0092005/",
+        "Last Update Time": "17:50:18.484387"
+      }
+    ],
+    [
+      {
+        "film Title": "Barry Lyndon",
+        "rate": "8.1/10",
+        "director": "Stanley Kubrick",
+        "film IMDb URL": "https://www.imdb.com//title/tt0072684/",
+        "Last Update Time": "17:50:18.524403"
+      }
+    ],
+    [
+      {
+        "film Title": "Cool Hand Luke",
+        "rate": "8.1/10",
+        "director": "Stuart Rosenberg",
+        "film IMDb URL": "https://www.imdb.com//title/tt0061512/",
+        "Last Update Time": "17:50:18.583446"
+      }
+    ],
+    [
+      {
+        "film Title": "Network",
+        "rate": "8.1/10",
+        "director": "Sidney Lumet",
+        "film IMDb URL": "https://www.imdb.com//title/tt0074958/",
+        "Last Update Time": "17:50:18.717371"
+      }
+    ],
+    [
+      {
+        "film Title": "Mad Max: Fury Road",
+        "rate": "8.1/10",
+        "director": "George Miller",
+        "film IMDb URL": "https://www.imdb.com//title/tt1392190/",
+        "Last Update Time": "17:50:18.937301"
+      }
+    ],
+    [
+      {
+        "film Title": "Prisoners",
+        "rate": "8.1/10",
+        "director": "Denis Villeneuve",
+        "film IMDb URL": "https://www.imdb.com//title/tt1392214/",
+        "Last Update Time": "17:50:19.015059"
+      }
+    ],
+    [
+      {
+        "film Title": "12 Years a Slave",
+        "rate": "8.1/10",
+        "director": "Steve McQueen",
+        "film IMDb URL": "https://www.imdb.com//title/tt2024544/",
+        "Last Update Time": "17:50:19.148891"
+      }
+    ],
+    [
+      {
+        "film Title": "Mr. Smith Goes to Washington",
+        "rate": "8.1/10",
+        "director": "Frank Capra",
+        "film IMDb URL": "https://www.imdb.com//title/tt0031679/",
+        "Last Update Time": "17:50:19.224144"
+      }
+    ],
+    [
+      {
+        "film Title": "Sherlock Jr.",
+        "rate": "8.2/10",
+        "director": "Buster Keaton",
+        "film IMDb URL": "https://www.imdb.com//title/tt0015324/",
+        "Last Update Time": "17:50:19.296685"
+      }
+    ],
+    [
+      {
+        "film Title": "How to Train Your Dragon",
+        "rate": "8.1/10",
+        "director": "Dean DeBlois",
+        "film IMDb URL": "https://www.imdb.com//title/tt0892769/",
+        "Last Update Time": "17:50:19.491551"
+      }
+    ],
+    [
+      {
+        "film Title": "To Be or Not to Be",
+        "rate": "8.2/10",
+        "director": "Ernst Lubitsch",
+        "film IMDb URL": "https://www.imdb.com//title/tt0035446/",
+        "Last Update Time": "17:50:19.699431"
+      }
+    ],
+    [
+      {
+        "film Title": "The General",
+        "rate": "8.1/10",
+        "director": "Clyde Bruckman",
+        "film IMDb URL": "https://www.imdb.com//title/tt0017925/",
+        "Last Update Time": "17:50:19.768568"
+      }
+    ],
+    [
+      {
+        "film Title": "Catch Me If You Can",
+        "rate": "8.1/10",
+        "director": "Steven Spielberg",
+        "film IMDb URL": "https://www.imdb.com//title/tt0264464/",
+        "Last Update Time": "17:50:19.841737"
+      }
+    ],
+    [
+      {
+        "film Title": "Ford v Ferrari",
+        "rate": "8.1/10",
+        "director": "James Mangold",
+        "film IMDb URL": "https://www.imdb.com//title/tt1950186/",
+        "Last Update Time": "17:50:19.903257"
+      }
+    ],
+    [
+      {
+        "film Title": "Before Sunrise",
+        "rate": "8.1/10",
+        "director": "Richard Linklater",
+        "film IMDb URL": "https://www.imdb.com//title/tt0112471/",
+        "Last Update Time": "17:50:19.976098"
+      }
+    ],
+    [
+      {
+        "film Title": "Hacksaw Ridge",
+        "rate": "8.1/10",
+        "director": "Mel Gibson",
+        "film IMDb URL": "https://www.imdb.com//title/tt2119532/",
+        "Last Update Time": "17:50:20.235583"
+      }
+    ],
+    [
+      {
+        "film Title": "The Grand Budapest Hotel",
+        "rate": "8.1/10",
+        "director": "Wes Anderson",
+        "film IMDb URL": "https://www.imdb.com//title/tt2278388/",
+        "Last Update Time": "17:50:20.423086"
+      }
+    ],
+    [
+      {
+        "film Title": "The Big Lebowski",
+        "rate": "8.1/10",
+        "director": "Joel Coen",
+        "film IMDb URL": "https://www.imdb.com//title/tt0118715/",
+        "Last Update Time": "17:50:20.492648"
+      }
+    ],
+    [
+      {
+        "film Title": "In the Name of the Father",
+        "rate": "8.1/10",
+        "director": "Jim Sheridan",
+        "film IMDb URL": "https://www.imdb.com//title/tt0107207/",
+        "Last Update Time": "17:50:20.524822"
+      }
+    ],
+    [
+      {
+        "film Title": "Mary and Max",
+        "rate": "8.1/10",
+        "director": "Adam Elliot",
+        "film IMDb URL": "https://www.imdb.com//title/tt0978762/",
+        "Last Update Time": "17:50:20.664343"
+      }
+    ],
+    [
+      {
+        "film Title": "Persona",
+        "rate": "8.1/10",
+        "director": "Ingmar Bergman",
+        "film IMDb URL": "https://www.imdb.com//title/tt0060827/",
+        "Last Update Time": "17:50:20.759155"
+      }
+    ],
+    [
+      {
+        "film Title": "Andhadhun",
+        "rate": "8.3/10",
+        "director": "Sriram Raghavan",
+        "film IMDb URL": "https://www.imdb.com//title/tt8108198/",
+        "Last Update Time": "17:50:20.800388"
+      }
+    ],
+    [
+      {
+        "film Title": "Gone Girl",
+        "rate": "8.1/10",
+        "director": "David Fincher",
+        "film IMDb URL": "https://www.imdb.com//title/tt2267998/",
+        "Last Update Time": "17:50:20.848477"
+      }
+    ],
+    [
+      {
+        "film Title": "The Bandit",
+        "rate": "8.3/10",
+        "director": "Yavuz Turgul",
+        "film IMDb URL": "https://www.imdb.com//title/tt0116231/",
+        "Last Update Time": "17:50:20.872909"
+      }
+    ],
+    [
+      {
+        "film Title": "Klaus",
+        "rate": "8.2/10",
+        "director": "Sergio Pablos",
+        "film IMDb URL": "https://www.imdb.com//title/tt4729430/",
+        "Last Update Time": "17:50:21.274861"
+      }
+    ],
+    [
+      {
+        "film Title": "Wild Tales",
+        "rate": "8.1/10",
+        "director": "Dami\u00e1n Szifron",
+        "film IMDb URL": "https://www.imdb.com//title/tt3011894/",
+        "Last Update Time": "17:50:21.327777"
+      }
+    ],
+    [
+      {
+        "film Title": "Tokyo Story",
+        "rate": "8.2/10",
+        "director": "Yasujir\u00f4 Ozu",
+        "film IMDb URL": "https://www.imdb.com//title/tt0046438/",
+        "Last Update Time": "17:50:21.408253"
+      }
+    ],
+    [
+      {
+        "film Title": "Memories of Murder",
+        "rate": "8.1/10",
+        "director": "Bong Joon Ho",
+        "film IMDb URL": "https://www.imdb.com//title/tt0353969/",
+        "Last Update Time": "17:50:21.468523"
+      }
+    ],
+    [
+      {
+        "film Title": "Gran Torino",
+        "rate": "8.1/10",
+        "director": "Clint Eastwood",
+        "film IMDb URL": "https://www.imdb.com//title/tt1205489/",
+        "Last Update Time": "17:50:21.494842"
+      }
+    ],
+    [
+      {
+        "film Title": "The Deer Hunter",
+        "rate": "8.1/10",
+        "director": "Michael Cimino",
+        "film IMDb URL": "https://www.imdb.com//title/tt0077416/",
+        "Last Update Time": "17:50:21.544733"
+      }
+    ],
+    [
+      {
+        "film Title": "The Third Man",
+        "rate": "8.1/10",
+        "director": "Carol Reed",
+        "film IMDb URL": "https://www.imdb.com//title/tt0041959/",
+        "Last Update Time": "17:50:21.677536"
+      }
+    ],
+    [
+      {
+        "film Title": "Fargo",
+        "rate": "8.1/10",
+        "director": "Joel Coen",
+        "film IMDb URL": "https://www.imdb.com//title/tt0116282/",
+        "Last Update Time": "17:50:22.025592"
+      }
+    ],
+    [
+      {
+        "film Title": "On the Waterfront",
+        "rate": "8.1/10",
+        "director": "Elia Kazan",
+        "film IMDb URL": "https://www.imdb.com//title/tt0047296/",
+        "Last Update Time": "17:50:22.158858"
+      }
+    ],
+    [
+      {
+        "film Title": "The Truman Show",
+        "rate": "8.1/10",
+        "director": "Peter Weir",
+        "film IMDb URL": "https://www.imdb.com//title/tt0120382/",
+        "Last Update Time": "17:50:22.376605"
+      }
+    ],
+    [
+      {
+        "film Title": "Kill Bill: Vol. 1",
+        "rate": "8.1/10",
+        "director": "Quentin Tarantino",
+        "film IMDb URL": "https://www.imdb.com//title/tt0266697/",
+        "Last Update Time": "17:50:22.403932"
+      }
+    ],
+    [
+      {
+        "film Title": "Stalker",
+        "rate": "8.2/10",
+        "director": "Andrei Tarkovsky",
+        "film IMDb URL": "https://www.imdb.com//title/tt0079944/",
+        "Last Update Time": "17:50:22.438092"
+      }
+    ],
+    [
+      {
+        "film Title": "Blade Runner",
+        "rate": "8.1/10",
+        "director": "Ridley Scott",
+        "film IMDb URL": "https://www.imdb.com//title/tt0083658/",
+        "Last Update Time": "17:50:22.574454"
+      }
+    ],
+    [
+      {
+        "film Title": "Finding Nemo",
+        "rate": "8.1/10",
+        "director": "Andrew Stanton",
+        "film IMDb URL": "https://www.imdb.com//title/tt0266543/",
+        "Last Update Time": "17:50:22.670753"
+      }
+    ],
+    [
+      {
+        "film Title": "The Bridge on the River Kwai",
+        "rate": "8.1/10",
+        "director": "David Lean",
+        "film IMDb URL": "https://www.imdb.com//title/tt0050212/",
+        "Last Update Time": "17:50:22.714931"
+      }
+    ],
+    [
+      {
+        "film Title": "Room",
+        "rate": "8.1/10",
+        "director": "Lenny Abrahamson",
+        "film IMDb URL": "https://www.imdb.com//title/tt3170832/",
+        "Last Update Time": "17:50:22.805617"
+      }
+    ],
+    [
+      {
+        "film Title": "Wild Strawberries",
+        "rate": "8.2/10",
+        "director": "Ingmar Bergman",
+        "film IMDb URL": "https://www.imdb.com//title/tt0050986/",
+        "Last Update Time": "17:50:23.092191"
+      }
+    ],
+    [
+      {
+        "film Title": "Gone with the Wind",
+        "rate": "8.1/10",
+        "director": "Victor Fleming",
+        "film IMDb URL": "https://www.imdb.com//title/tt0031381/",
+        "Last Update Time": "17:50:23.260217"
+      }
+    ],
+    [
+      {
+        "film Title": "The Thing",
+        "rate": "8.1/10",
+        "director": "John Carpenter",
+        "film IMDb URL": "https://www.imdb.com//title/tt0084787/",
+        "Last Update Time": "17:50:23.294446"
+      }
+    ],
+    [
+      {
+        "film Title": "The Sixth Sense",
+        "rate": "8.1/10",
+        "director": "M. Night Shyamalan",
+        "film IMDb URL": "https://www.imdb.com//title/tt0167404/",
+        "Last Update Time": "17:50:23.395091"
+      }
+    ],
+    [
+      {
+        "film Title": "Trainspotting",
+        "rate": "8.1/10",
+        "director": "Danny Boyle",
+        "film IMDb URL": "https://www.imdb.com//title/tt0117951/",
+        "Last Update Time": "17:50:23.444009"
+      }
+    ],
+    [
+      {
+        "film Title": "Jurassic Park",
+        "rate": "8.1/10",
+        "director": "Steven Spielberg",
+        "film IMDb URL": "https://www.imdb.com//title/tt0107290/",
+        "Last Update Time": "17:50:23.599542"
+      }
+    ],
+    [
+      {
+        "film Title": "Warrior",
+        "rate": "8.2/10",
+        "director": "Gavin O'Connor",
+        "film IMDb URL": "https://www.imdb.com//title/tt1291584/",
+        "Last Update Time": "17:50:23.777182"
+      }
+    ],
+    [
+      {
+        "film Title": "The Elephant Man",
+        "rate": "8.1/10",
+        "director": "David Lynch",
+        "film IMDb URL": "https://www.imdb.com//title/tt0080678/",
+        "Last Update Time": "17:50:23.910949"
+      }
+    ],
+    [
+      {
+        "film Title": "Shutter Island",
+        "rate": "8.1/10",
+        "director": "Martin Scorsese",
+        "film IMDb URL": "https://www.imdb.com//title/tt1130884/",
+        "Last Update Time": "17:50:23.998347"
+      }
+    ],
+    [
+      {
+        "film Title": "No Country for Old Men",
+        "rate": "8.1/10",
+        "director": "Ethan Coen",
+        "film IMDb URL": "https://www.imdb.com//title/tt0477348/",
+        "Last Update Time": "17:50:24.065054"
+      }
+    ],
+    [
+      {
+        "film Title": "The Seventh Seal",
+        "rate": "8.2/10",
+        "director": "Ingmar Bergman",
+        "film IMDb URL": "https://www.imdb.com//title/tt0050976/",
+        "Last Update Time": "17:50:24.220982"
+      }
+    ],
+    [
+      {
+        "film Title": "Inside Out",
+        "rate": "8.1/10",
+        "director": "Pete Docter",
+        "film IMDb URL": "https://www.imdb.com//title/tt2096673/",
+        "Last Update Time": "17:50:24.371540"
+      }
+    ],
+    [
+      {
+        "film Title": "Chinatown",
+        "rate": "8.2/10",
+        "director": "Roman Polanski",
+        "film IMDb URL": "https://www.imdb.com//title/tt0071315/",
+        "Last Update Time": "17:50:24.555381"
+      }
+    ],
+    [
+      {
+        "film Title": "V for Vendetta",
+        "rate": "8.2/10",
+        "director": "James McTeigue",
+        "film IMDb URL": "https://www.imdb.com//title/tt0434409/",
+        "Last Update Time": "17:50:24.698149"
+      }
+    ],
+    [
+      {
+        "film Title": "Dial M for Murder",
+        "rate": "8.2/10",
+        "director": "Alfred Hitchcock",
+        "film IMDb URL": "https://www.imdb.com//title/tt0046912/",
+        "Last Update Time": "17:50:24.724469"
+      }
+    ],
+    [
+      {
+        "film Title": "The Gold Rush",
+        "rate": "8.2/10",
+        "director": "Charles Chaplin",
+        "film IMDb URL": "https://www.imdb.com//title/tt0015864/",
+        "Last Update Time": "17:50:24.878706"
+      }
+    ],
+    [
+      {
+        "film Title": "My Father and My Son",
+        "rate": "8.3/10",
+        "director": "\u00c7agan Irmak",
+        "film IMDb URL": "https://www.imdb.com//title/tt0476735/",
+        "Last Update Time": "17:50:24.953616"
+      }
+    ],
+    [
+      {
+        "film Title": "Three Billboards Outside Ebbing, Missouri",
+        "rate": "8.2/10",
+        "director": "Martin McDonagh",
+        "film IMDb URL": "https://www.imdb.com//title/tt5027774/",
+        "Last Update Time": "17:50:25.024181"
+      }
+    ],
+    [
+      {
+        "film Title": "Judgment at Nuremberg",
+        "rate": "8.2/10",
+        "director": "Stanley Kramer",
+        "film IMDb URL": "https://www.imdb.com//title/tt0055031/",
+        "Last Update Time": "17:50:25.336432"
+      }
+    ],
+    [
+      {
+        "film Title": "There Will Be Blood",
+        "rate": "8.2/10",
+        "director": "Paul Thomas Anderson",
+        "film IMDb URL": "https://www.imdb.com//title/tt0469494/",
+        "Last Update Time": "17:50:25.436582"
+      }
+    ],
+    [
+      {
+        "film Title": "Raging Bull",
+        "rate": "8.2/10",
+        "director": "Martin Scorsese",
+        "film IMDb URL": "https://www.imdb.com//title/tt0081398/",
+        "Last Update Time": "17:50:25.586364"
+      }
+    ],
+    [
+      {
+        "film Title": "The Treasure of the Sierra Madre",
+        "rate": "8.2/10",
+        "director": "John Huston",
+        "film IMDb URL": "https://www.imdb.com//title/tt0040897/",
+        "Last Update Time": "17:50:25.828925"
+      }
+    ],
+    [
+      {
+        "film Title": "Lock, Stock and Two Smoking Barrels",
+        "rate": "8.2/10",
+        "director": "Guy Ritchie",
+        "film IMDb URL": "https://www.imdb.com//title/tt0120735/",
+        "Last Update Time": "17:50:25.872845"
+      }
+    ],
+    [
+      {
+        "film Title": "The Wolf of Wall Street",
+        "rate": "8.2/10",
+        "director": "Martin Scorsese",
+        "film IMDb URL": "https://www.imdb.com//title/tt0993846/",
+        "Last Update Time": "17:50:25.909933"
+      }
+    ],
+    [
+      {
+        "film Title": "The Secret in Their Eyes",
+        "rate": "8.2/10",
+        "director": "Juan Jos\u00e9 Campanella",
+        "film IMDb URL": "https://www.imdb.com//title/tt1305806/",
+        "Last Update Time": "17:50:25.974495"
+      }
+    ],
+    [
+      {
+        "film Title": "My Neighbor Totoro",
+        "rate": "8.2/10",
+        "director": "Hayao Miyazaki",
+        "film IMDb URL": "https://www.imdb.com//title/tt0096283/",
+        "Last Update Time": "17:50:26.014518"
+      }
+    ],
+    [
+      {
+        "film Title": "Pan's Labyrinth",
+        "rate": "8.2/10",
+        "director": "Guillermo del Toro",
+        "film IMDb URL": "https://www.imdb.com//title/tt0457430/",
+        "Last Update Time": "17:50:26.151223"
+      }
+    ],
+    [
+      {
+        "film Title": "Casino",
+        "rate": "8.2/10",
+        "director": "Martin Scorsese",
+        "film IMDb URL": "https://www.imdb.com//title/tt0112641/",
+        "Last Update Time": "17:50:26.227386"
+      }
+    ],
+    [
+      {
+        "film Title": "A Beautiful Mind",
+        "rate": "8.2/10",
+        "director": "Ron Howard",
+        "film IMDb URL": "https://www.imdb.com//title/tt0268978/",
+        "Last Update Time": "17:50:26.671167"
+      }
+    ],
+    [
+      {
+        "film Title": "Howl's Moving Castle",
+        "rate": "8.2/10",
+        "director": "Hayao Miyazaki",
+        "film IMDb URL": "https://www.imdb.com//title/tt0347149/",
+        "Last Update Time": "17:50:26.836206"
+      }
+    ],
+    [
+      {
+        "film Title": "Some Like It Hot",
+        "rate": "8.2/10",
+        "director": "Billy Wilder",
+        "film IMDb URL": "https://www.imdb.com//title/tt0053291/",
+        "Last Update Time": "17:50:26.865462"
+      }
+    ],
+    [
+      {
+        "film Title": "Unforgiven",
+        "rate": "8.2/10",
+        "director": "Clint Eastwood",
+        "film IMDb URL": "https://www.imdb.com//title/tt0105695/",
+        "Last Update Time": "17:50:26.918166"
+      }
+    ],
+    [
+      {
+        "film Title": "The Great Escape",
+        "rate": "8.2/10",
+        "director": "John Sturges",
+        "film IMDb URL": "https://www.imdb.com//title/tt0057115/",
+        "Last Update Time": "17:50:26.945493"
+      }
+    ],
+    [
+      {
+        "film Title": "Ran",
+        "rate": "8.2/10",
+        "director": "Akira Kurosawa",
+        "film IMDb URL": "https://www.imdb.com//title/tt0089881/",
+        "Last Update Time": "17:50:27.084907"
+      }
+    ],
+    [
+      {
+        "film Title": "Downfall",
+        "rate": "8.2/10",
+        "director": "Oliver Hirschbiegel",
+        "film IMDb URL": "https://www.imdb.com//title/tt0363163/",
+        "Last Update Time": "17:50:27.351378"
+      }
+    ],
+    [
+      {
+        "film Title": "All About Eve",
+        "rate": "8.2/10",
+        "director": "Joseph L. Mankiewicz",
+        "film IMDb URL": "https://www.imdb.com//title/tt0042192/",
+        "Last Update Time": "17:50:27.424752"
+      }
+    ],
+    [
+      {
+        "film Title": "Children of Heaven",
+        "rate": "8.3/10",
+        "director": "Majid Majidi",
+        "film IMDb URL": "https://www.imdb.com//title/tt0118849/",
+        "Last Update Time": "17:50:27.496106"
+      }
+    ],
+    [
+      {
+        "film Title": "Yojimbo",
+        "rate": "8.2/10",
+        "director": "Akira Kurosawa",
+        "film IMDb URL": "https://www.imdb.com//title/tt0055630/",
+        "Last Update Time": "17:50:27.558978"
+      }
+    ],
+    [
+      {
+        "film Title": "Green Book",
+        "rate": "8.2/10",
+        "director": "Peter Farrelly",
+        "film IMDb URL": "https://www.imdb.com//title/tt6966692/",
+        "Last Update Time": "17:50:27.588258"
+      }
+    ],
+    [
+      {
+        "film Title": "Rashomon",
+        "rate": "8.2/10",
+        "director": "Akira Kurosawa",
+        "film IMDb URL": "https://www.imdb.com//title/tt0042876/",
+        "Last Update Time": "17:50:27.808670"
+      }
+    ],
+    [
+      {
+        "film Title": "Batman Begins",
+        "rate": "8.2/10",
+        "director": "Christopher Nolan",
+        "film IMDb URL": "https://www.imdb.com//title/tt0372784/",
+        "Last Update Time": "17:50:27.837918"
+      }
+    ],
+    [
+      {
+        "film Title": "Come and See",
+        "rate": "8.3/10",
+        "director": "Elem Klimov",
+        "film IMDb URL": "https://www.imdb.com//title/tt0091251/",
+        "Last Update Time": "17:50:27.909502"
+      }
+    ],
+    [
+      {
+        "film Title": "Heat",
+        "rate": "8.2/10",
+        "director": "Michael Mann",
+        "film IMDb URL": "https://www.imdb.com//title/tt0113277/",
+        "Last Update Time": "17:50:28.236641"
+      }
+    ],
+    [
+      {
+        "film Title": "Monty Python and the Holy Grail",
+        "rate": "8.2/10",
+        "director": "Terry Gilliam",
+        "film IMDb URL": "https://www.imdb.com//title/tt0071853/",
+        "Last Update Time": "17:50:28.267871"
+      }
+    ],
+    [
+      {
+        "film Title": "L.A. Confidential",
+        "rate": "8.2/10",
+        "director": "Curtis Hanson",
+        "film IMDb URL": "https://www.imdb.com//title/tt0119488/",
+        "Last Update Time": "17:50:28.307857"
+      }
+    ],
+    [
+      {
+        "film Title": "Die Hard",
+        "rate": "8.2/10",
+        "director": "John McTiernan",
+        "film IMDb URL": "https://www.imdb.com//title/tt0095016/",
+        "Last Update Time": "17:50:28.478379"
+      }
+    ],
+    [
+      {
+        "film Title": "Incendies",
+        "rate": "8.3/10",
+        "director": "Denis Villeneuve",
+        "film IMDb URL": "https://www.imdb.com//title/tt1255953/",
+        "Last Update Time": "17:50:28.652611"
+      }
+    ],
+    [
+      {
+        "film Title": "Up",
+        "rate": "8.2/10",
+        "director": "Pete Docter",
+        "film IMDb URL": "https://www.imdb.com//title/tt1049413/",
+        "Last Update Time": "17:50:28.725588"
+      }
+    ],
+    [
+      {
+        "film Title": "To Kill a Mockingbird",
+        "rate": "8.2/10",
+        "director": "Robert Mulligan",
+        "film IMDb URL": "https://www.imdb.com//title/tt0056592/",
+        "Last Update Time": "17:50:28.769551"
+      }
+    ],
+    [
+      {
+        "film Title": "Indiana Jones and the Last Crusade",
+        "rate": "8.2/10",
+        "director": "Steven Spielberg",
+        "film IMDb URL": "https://www.imdb.com//title/tt0097576/",
+        "Last Update Time": "17:50:28.842740"
+      }
+    ],
+    [
+      {
+        "film Title": "The Apartment",
+        "rate": "8.3/10",
+        "director": "Billy Wilder",
+        "film IMDb URL": "https://www.imdb.com//title/tt0053604/",
+        "Last Update Time": "17:50:28.871224"
+      }
+    ],
+    [
+      {
+        "film Title": "Double Indemnity",
+        "rate": "8.3/10",
+        "director": "Billy Wilder",
+        "film IMDb URL": "https://www.imdb.com//title/tt0036775/",
+        "Last Update Time": "17:50:29.005553"
+      }
+    ],
+    [
+      {
+        "film Title": "For a Few Dollars More",
+        "rate": "8.3/10",
+        "director": "Sergio Leone",
+        "film IMDb URL": "https://www.imdb.com//title/tt0059578/",
+        "Last Update Time": "17:50:29.060629"
+      }
+    ],
+    [
+      {
+        "film Title": "Metropolis",
+        "rate": "8.3/10",
+        "director": "Fritz Lang",
+        "film IMDb URL": "https://www.imdb.com//title/tt0017136/",
+        "Last Update Time": "17:50:29.283298"
+      }
+    ],
+    [
+      {
+        "film Title": "A Separation",
+        "rate": "8.3/10",
+        "director": "Asghar Farhadi",
+        "film IMDb URL": "https://www.imdb.com//title/tt1832382/",
+        "Last Update Time": "17:50:29.310592"
+      }
+    ],
+    [
+      {
+        "film Title": "The Sting",
+        "rate": "8.3/10",
+        "director": "George Roy Hill",
+        "film IMDb URL": "https://www.imdb.com//title/tt0070735/",
+        "Last Update Time": "17:50:29.484250"
+      }
+    ],
+    [
+      {
+        "film Title": "Ikiru",
+        "rate": "8.3/10",
+        "director": "Akira Kurosawa",
+        "film IMDb URL": "https://www.imdb.com//title/tt0044741/",
+        "Last Update Time": "17:50:29.583195"
+      }
+    ],
+    [
+      {
+        "film Title": "Am\u00e9lie",
+        "rate": "8.3/10",
+        "director": "Jean-Pierre Jeunet",
+        "film IMDb URL": "https://www.imdb.com//title/tt0211915/",
+        "Last Update Time": "17:50:29.761164"
+      }
+    ],
+    [
+      {
+        "film Title": "Lawrence of Arabia",
+        "rate": "8.3/10",
+        "director": "David Lean",
+        "film IMDb URL": "https://www.imdb.com//title/tt0056172/",
+        "Last Update Time": "17:50:29.811917"
+      }
+    ],
+    [
+      {
+        "film Title": "Scarface",
+        "rate": "8.3/10",
+        "director": "Brian De Palma",
+        "film IMDb URL": "https://www.imdb.com//title/tt0086250/",
+        "Last Update Time": "17:50:29.841360"
+      }
+    ],
+    [
+      {
+        "film Title": "Taxi Driver",
+        "rate": "8.3/10",
+        "director": "Martin Scorsese",
+        "film IMDb URL": "https://www.imdb.com//title/tt0075314/",
+        "Last Update Time": "17:50:29.903531"
+      }
+    ],
+    [
+      {
+        "film Title": "Toy Story 3",
+        "rate": "8.3/10",
+        "director": "Lee Unkrich",
+        "film IMDb URL": "https://www.imdb.com//title/tt0435761/",
+        "Last Update Time": "17:50:29.931853"
+      }
+    ],
+    [
+      {
+        "film Title": "Snatch",
+        "rate": "8.3/10",
+        "director": "Guy Ritchie",
+        "film IMDb URL": "https://www.imdb.com//title/tt0208092/",
+        "Last Update Time": "17:50:30.273443"
+      }
+    ],
+    [
+      {
+        "film Title": "The Kid",
+        "rate": "8.3/10",
+        "director": "Charles Chaplin",
+        "film IMDb URL": "https://www.imdb.com//title/tt0012349/",
+        "Last Update Time": "17:50:30.300866"
+      }
+    ],
+    [
+      {
+        "film Title": "Singin' in the Rain",
+        "rate": "8.3/10",
+        "director": "Stanley Donen",
+        "film IMDb URL": "https://www.imdb.com//title/tt0045152/",
+        "Last Update Time": "17:50:30.494187"
+      }
+    ],
+    [
+      {
+        "film Title": "Bicycle Thieves",
+        "rate": "8.3/10",
+        "director": "Vittorio De Sica",
+        "film IMDb URL": "https://www.imdb.com//title/tt0040522/",
+        "Last Update Time": "17:50:30.542400"
+      }
+    ],
+    [
+      {
+        "film Title": "The Hunt",
+        "rate": "8.3/10",
+        "director": "Thomas Vinterberg",
+        "film IMDb URL": "https://www.imdb.com//title/tt2106476/",
+        "Last Update Time": "17:50:30.723255"
+      }
+    ],
+    [
+      {
+        "film Title": "A Clockwork Orange",
+        "rate": "8.3/10",
+        "director": "Stanley Kubrick",
+        "film IMDb URL": "https://www.imdb.com//title/tt0066921/",
+        "Last Update Time": "17:50:30.779106"
+      }
+    ],
+    [
+      {
+        "film Title": "Full Metal Jacket",
+        "rate": "8.3/10",
+        "director": "Stanley Kubrick",
+        "film IMDb URL": "https://www.imdb.com//title/tt0093058/",
+        "Last Update Time": "17:50:30.863426"
+      }
+    ],
+    [
+      {
+        "film Title": "North by Northwest",
+        "rate": "8.3/10",
+        "director": "Alfred Hitchcock",
+        "film IMDb URL": "https://www.imdb.com//title/tt0053125/",
+        "Last Update Time": "17:50:30.918484"
+      }
+    ],
+    [
+      {
+        "film Title": "Eternal Sunshine of the Spotless Mind",
+        "rate": "8.3/10",
+        "director": "Michel Gondry",
+        "film IMDb URL": "https://www.imdb.com//title/tt0338013/",
+        "Last Update Time": "17:50:31.054477"
+      }
+    ],
+    [
+      {
+        "film Title": "M",
+        "rate": "8.3/10",
+        "director": "Fritz Lang",
+        "film IMDb URL": "https://www.imdb.com//title/tt0022100/",
+        "Last Update Time": "17:50:31.122971"
+      }
+    ],
+    [
+      {
+        "film Title": "Dangal",
+        "rate": "8.4/10",
+        "director": "Nitesh Tiwari",
+        "film IMDb URL": "https://www.imdb.com//title/tt5074352/",
+        "Last Update Time": "17:50:31.259260"
+      }
+    ],
+    [
+      {
+        "film Title": "Citizen Kane",
+        "rate": "8.3/10",
+        "director": "Orson Welles",
+        "film IMDb URL": "https://www.imdb.com//title/tt0033467/",
+        "Last Update Time": "17:50:31.416109"
+      }
+    ],
+    [
+      {
+        "film Title": "Requiem for a Dream",
+        "rate": "8.3/10",
+        "director": "Darren Aronofsky",
+        "film IMDb URL": "https://www.imdb.com//title/tt0180093/",
+        "Last Update Time": "17:50:31.572936"
+      }
+    ],
+    [
+      {
+        "film Title": "Capernaum",
+        "rate": "8.4/10",
+        "director": "Nadine Labaki",
+        "film IMDb URL": "https://www.imdb.com//title/tt8267604/",
+        "Last Update Time": "17:50:31.644363"
+      }
+    ],
+    [
+      {
+        "film Title": "Vertigo",
+        "rate": "8.3/10",
+        "director": "Alfred Hitchcock",
+        "film IMDb URL": "https://www.imdb.com//title/tt0052357/",
+        "Last Update Time": "17:50:31.727678"
+      }
+    ],
+    [
+      {
+        "film Title": "2001: A Space Odyssey",
+        "rate": "8.3/10",
+        "director": "Stanley Kubrick",
+        "film IMDb URL": "https://www.imdb.com//title/tt0062622/",
+        "Last Update Time": "17:50:31.874881"
+      }
+    ],
+    [
+      {
+        "film Title": "Good Will Hunting",
+        "rate": "8.3/10",
+        "director": "Gus Van Sant",
+        "film IMDb URL": "https://www.imdb.com//title/tt0119217/",
+        "Last Update Time": "17:50:32.131229"
+      }
+    ],
+    [
+      {
+        "film Title": "Inglourious Basterds",
+        "rate": "8.3/10",
+        "director": "Quentin Tarantino",
+        "film IMDb URL": "https://www.imdb.com//title/tt0361748/",
+        "Last Update Time": "17:50:32.438465"
+      }
+    ],
+    [
+      {
+        "film Title": "Reservoir Dogs",
+        "rate": "8.3/10",
+        "director": "Quentin Tarantino",
+        "film IMDb URL": "https://www.imdb.com//title/tt0105236/",
+        "Last Update Time": "17:50:32.600243"
+      }
+    ],
+    [
+      {
+        "film Title": "Amadeus",
+        "rate": "8.3/10",
+        "director": "Milos Forman",
+        "film IMDb URL": "https://www.imdb.com//title/tt0086879/",
+        "Last Update Time": "17:50:32.628545"
+      }
+    ],
+    [
+      {
+        "film Title": "1917",
+        "rate": "8.3/10",
+        "director": "Sam Mendes",
+        "film IMDb URL": "https://www.imdb.com//title/tt8579674/",
+        "Last Update Time": "17:50:32.766252"
+      }
+    ],
+    [
+      {
+        "film Title": "Like Stars on Earth",
+        "rate": "8.4/10",
+        "director": "Aamir Khan",
+        "film IMDb URL": "https://www.imdb.com//title/tt0986264/",
+        "Last Update Time": "17:50:32.903523"
+      }
+    ],
+    [
+      {
+        "film Title": "High and Low",
+        "rate": "8.5/10",
+        "director": "Akira Kurosawa",
+        "film IMDb URL": "https://www.imdb.com//title/tt0057565/",
+        "Last Update Time": "17:50:33.037607"
+      }
+    ],
+    [
+      {
+        "film Title": "Anand",
+        "rate": "8.6/10",
+        "director": "Hrishikesh Mukherjee",
+        "film IMDb URL": "https://www.imdb.com//title/tt0066763/",
+        "Last Update Time": "17:50:33.240514"
+      }
+    ],
+    [
+      {
+        "film Title": "Star Wars: Episode VI - Return of the Jedi",
+        "rate": "8.3/10",
+        "director": "Richard Marquand",
+        "film IMDb URL": "https://www.imdb.com//title/tt0086190/",
+        "Last Update Time": "17:50:33.446607"
+      }
+    ],
+    [
+      {
+        "film Title": "Toy Story",
+        "rate": "8.3/10",
+        "director": "John Lasseter",
+        "film IMDb URL": "https://www.imdb.com//title/tt0114709/",
+        "Last Update Time": "17:50:33.495792"
+      }
+    ],
+    [
+      {
+        "film Title": "Braveheart",
+        "rate": "8.3/10",
+        "director": "Mel Gibson",
+        "film IMDb URL": "https://www.imdb.com//title/tt0112573/",
+        "Last Update Time": "17:50:33.534832"
+      }
+    ],
+    [
+      {
+        "film Title": "3 Idiots",
+        "rate": "8.4/10",
+        "director": "Rajkumar Hirani",
+        "film IMDb URL": "https://www.imdb.com//title/tt1187043/",
+        "Last Update Time": "17:50:33.674129"
+      }
+    ],
+    [
+      {
+        "film Title": "Das Boot",
+        "rate": "8.3/10",
+        "director": "Wolfgang Petersen",
+        "film IMDb URL": "https://www.imdb.com//title/tt0082096/",
+        "Last Update Time": "17:50:33.760666"
+      }
+    ],
+    [
+      {
+        "film Title": "American Beauty",
+        "rate": "8.3/10",
+        "director": "Sam Mendes",
+        "film IMDb URL": "https://www.imdb.com//title/tt0169547/",
+        "Last Update Time": "17:50:33.978273"
+      }
+    ],
+    [
+      {
+        "film Title": "Your Name.",
+        "rate": "8.4/10",
+        "director": "Makoto Shinkai",
+        "film IMDb URL": "https://www.imdb.com//title/tt5311514/",
+        "Last Update Time": "17:50:34.117908"
+      }
+    ],
+    [
+      {
+        "film Title": "Once Upon a Time in America",
+        "rate": "8.4/10",
+        "director": "Sergio Leone",
+        "film IMDb URL": "https://www.imdb.com//title/tt0087843/",
+        "Last Update Time": "17:50:34.154963"
+      }
+    ],
+    [
+      {
+        "film Title": "Coco",
+        "rate": "8.4/10",
+        "director": "Lee Unkrich",
+        "film IMDb URL": "https://www.imdb.com//title/tt2380307/",
+        "Last Update Time": "17:50:34.218248"
+      }
+    ],
+    [
+      {
+        "film Title": "Witness for the Prosecution",
+        "rate": "8.4/10",
+        "director": "Billy Wilder",
+        "film IMDb URL": "https://www.imdb.com//title/tt0051201/",
+        "Last Update Time": "17:50:34.365086"
+      }
+    ],
+    [
+      {
+        "film Title": "Aliens",
+        "rate": "8.3/10",
+        "director": "James Cameron",
+        "film IMDb URL": "https://www.imdb.com//title/tt0090605/",
+        "Last Update Time": "17:50:34.393390"
+      }
+    ],
+    [
+      {
+        "film Title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "rate": "8.4/10",
+        "director": "Stanley Kubrick",
+        "film IMDb URL": "https://www.imdb.com//title/tt0057012/",
+        "Last Update Time": "17:50:34.866784"
+      }
+    ],
+    [
+      {
+        "film Title": "Oldboy",
+        "rate": "8.4/10",
+        "director": "Chan-wook Park",
+        "film IMDb URL": "https://www.imdb.com//title/tt0364569/",
+        "Last Update Time": "17:50:34.962240"
+      }
+    ],
+    [
+      {
+        "film Title": "The Dark Knight Rises",
+        "rate": "8.4/10",
+        "director": "Christopher Nolan",
+        "film IMDb URL": "https://www.imdb.com//title/tt1345836/",
+        "Last Update Time": "17:50:35.003208"
+      }
+    ],
+    [
+      {
+        "film Title": "Princess Mononoke",
+        "rate": "8.4/10",
+        "director": "Hayao Miyazaki",
+        "film IMDb URL": "https://www.imdb.com//title/tt0119698/",
+        "Last Update Time": "17:50:35.140039"
+      }
+    ],
+    [
+      {
+        "film Title": "Avengers: Endgame",
+        "rate": "8.4/10",
+        "director": "Anthony Russo",
+        "film IMDb URL": "https://www.imdb.com//title/tt4154796/",
+        "Last Update Time": "17:50:35.169286"
+      }
+    ],
+    [
+      {
+        "film Title": "Sunset Blvd.",
+        "rate": "8.4/10",
+        "director": "Billy Wilder",
+        "film IMDb URL": "https://www.imdb.com//title/tt0043014/",
+        "Last Update Time": "17:50:35.201525"
+      }
+    ],
+    [
+      {
+        "film Title": "WALL\u00b7E",
+        "rate": "8.4/10",
+        "director": "Andrew Stanton",
+        "film IMDb URL": "https://www.imdb.com//title/tt0910970/",
+        "Last Update Time": "17:50:35.238581"
+      }
+    ],
+    [
+      {
+        "film Title": "Spider-Man: Into the Spider-Verse",
+        "rate": "8.4/10",
+        "director": "Bob Persichetti",
+        "film IMDb URL": "https://www.imdb.com//title/tt4633694/",
+        "Last Update Time": "17:50:35.339642"
+      }
+    ],
+    [
+      {
+        "film Title": "Paths of Glory",
+        "rate": "8.4/10",
+        "director": "Stanley Kubrick",
+        "film IMDb URL": "https://www.imdb.com//title/tt0050825/",
+        "Last Update Time": "17:50:35.716646"
+      }
+    ],
+    [
+      {
+        "film Title": "The Shining",
+        "rate": "8.4/10",
+        "director": "Stanley Kubrick",
+        "film IMDb URL": "https://www.imdb.com//title/tt0081505/",
+        "Last Update Time": "17:50:35.871784"
+      }
+    ],
+    [
+      {
+        "film Title": "The Lives of Others",
+        "rate": "8.4/10",
+        "director": "Florian Henckel von Donnersmarck",
+        "film IMDb URL": "https://www.imdb.com//title/tt0405094/",
+        "Last Update Time": "17:50:35.933635"
+      }
+    ],
+    [
+      {
+        "film Title": "The Great Dictator",
+        "rate": "8.4/10",
+        "director": "Charles Chaplin",
+        "film IMDb URL": "https://www.imdb.com//title/tt0032553/",
+        "Last Update Time": "17:50:35.963931"
+      }
+    ],
+    [
+      {
+        "film Title": "Django Unchained",
+        "rate": "8.4/10",
+        "director": "Quentin Tarantino",
+        "film IMDb URL": "https://www.imdb.com//title/tt1853728/",
+        "Last Update Time": "17:50:36.036086"
+      }
+    ],
+    [
+      {
+        "film Title": "Raiders of the Lost Ark",
+        "rate": "8.4/10",
+        "director": "Steven Spielberg",
+        "film IMDb URL": "https://www.imdb.com//title/tt0082971/",
+        "Last Update Time": "17:50:36.178275"
+      }
+    ],
+    [
+      {
+        "film Title": "Memento",
+        "rate": "8.4/10",
+        "director": "Christopher Nolan",
+        "film IMDb URL": "https://www.imdb.com//title/tt0209144/",
+        "Last Update Time": "17:50:36.217315"
+      }
+    ],
+    [
+      {
+        "film Title": "Avengers: Infinity War",
+        "rate": "8.5/10",
+        "director": "Anthony Russo",
+        "film IMDb URL": "https://www.imdb.com//title/tt4154756/",
+        "Last Update Time": "17:50:36.317567"
+      }
+    ],
+    [
+      {
+        "film Title": "Apocalypse Now",
+        "rate": "8.4/10",
+        "director": "Francis Ford Coppola",
+        "film IMDb URL": "https://www.imdb.com//title/tt0078788/",
+        "Last Update Time": "17:50:36.808491"
+      }
+    ],
+    [
+      {
+        "film Title": "Cinema Paradiso",
+        "rate": "8.5/10",
+        "director": "Giuseppe Tornatore",
+        "film IMDb URL": "https://www.imdb.com//title/tt0095765/",
+        "Last Update Time": "17:50:36.860563"
+      }
+    ],
+    [
+      {
+        "film Title": "Joker",
+        "rate": "8.5/10",
+        "director": "Todd Phillips",
+        "film IMDb URL": "https://www.imdb.com//title/tt7286456/",
+        "Last Update Time": "17:50:36.899511"
+      }
+    ],
+    [
+      {
+        "film Title": "Alien",
+        "rate": "8.4/10",
+        "director": "Ridley Scott",
+        "film IMDb URL": "https://www.imdb.com//title/tt0078748/",
+        "Last Update Time": "17:50:36.928823"
+      }
+    ],
+    [
+      {
+        "film Title": "Casablanca",
+        "rate": "8.5/10",
+        "director": "Michael Curtiz",
+        "film IMDb URL": "https://www.imdb.com//title/tt0034583/",
+        "Last Update Time": "17:50:37.068620"
+      }
+    ],
+    [
+      {
+        "film Title": "Rear Window",
+        "rate": "8.4/10",
+        "director": "Alfred Hitchcock",
+        "film IMDb URL": "https://www.imdb.com//title/tt0047396/",
+        "Last Update Time": "17:50:37.103898"
+      }
+    ],
+    [
+      {
+        "film Title": "Once Upon a Time in the West",
+        "rate": "8.5/10",
+        "director": "Sergio Leone",
+        "film IMDb URL": "https://www.imdb.com//title/tt0064116/",
+        "Last Update Time": "17:50:37.292787"
+      }
+    ],
+    [
+      {
+        "film Title": "Grave of the Fireflies",
+        "rate": "8.5/10",
+        "director": "Isao Takahata",
+        "film IMDb URL": "https://www.imdb.com//title/tt0095327/",
+        "Last Update Time": "17:50:37.321097"
+      }
+    ],
+    [
+      {
+        "film Title": "The Prestige",
+        "rate": "8.5/10",
+        "director": "Christopher Nolan",
+        "film IMDb URL": "https://www.imdb.com//title/tt0482571/",
+        "Last Update Time": "17:50:37.594429"
+      }
+    ],
+    [
+      {
+        "film Title": "The Intouchables",
+        "rate": "8.5/10",
+        "director": "Olivier Nakache",
+        "film IMDb URL": "https://www.imdb.com//title/tt1675434/",
+        "Last Update Time": "17:50:37.644665"
+      }
+    ],
+    [
+      {
+        "film Title": "Whiplash",
+        "rate": "8.5/10",
+        "director": "Damien Chazelle",
+        "film IMDb URL": "https://www.imdb.com//title/tt2582802/",
+        "Last Update Time": "17:50:37.745669"
+      }
+    ],
+    [
+      {
+        "film Title": "Gladiator",
+        "rate": "8.5/10",
+        "director": "Ridley Scott",
+        "film IMDb URL": "https://www.imdb.com//title/tt0172495/",
+        "Last Update Time": "17:50:37.782832"
+      }
+    ],
+    [
+      {
+        "film Title": "City Lights",
+        "rate": "8.5/10",
+        "director": "Charles Chaplin",
+        "film IMDb URL": "https://www.imdb.com//title/tt0021749/",
+        "Last Update Time": "17:50:37.826905"
+      }
+    ],
+    [
+      {
+        "film Title": "The Departed",
+        "rate": "8.5/10",
+        "director": "Martin Scorsese",
+        "film IMDb URL": "https://www.imdb.com//title/tt0407887/",
+        "Last Update Time": "17:50:37.965697"
+      }
+    ],
+    [
+      {
+        "film Title": "Psycho",
+        "rate": "8.5/10",
+        "director": "Alfred Hitchcock",
+        "film IMDb URL": "https://www.imdb.com//title/tt0054215/",
+        "Last Update Time": "17:50:38.002348"
+      }
+    ],
+    [
+      {
+        "film Title": "Modern Times",
+        "rate": "8.5/10",
+        "director": "Charles Chaplin",
+        "film IMDb URL": "https://www.imdb.com//title/tt0027977/",
+        "Last Update Time": "17:50:38.031628"
+      }
+    ],
+    [
+      {
+        "film Title": "American History X",
+        "rate": "8.5/10",
+        "director": "Tony Kaye",
+        "film IMDb URL": "https://www.imdb.com//title/tt0120586/",
+        "Last Update Time": "17:50:38.406478"
+      }
+    ],
+    [
+      {
+        "film Title": "Back to the Future",
+        "rate": "8.5/10",
+        "director": "Robert Zemeckis",
+        "film IMDb URL": "https://www.imdb.com//title/tt0088763/",
+        "Last Update Time": "17:50:38.490680"
+      }
+    ],
+    [
+      {
+        "film Title": "The Pianist",
+        "rate": "8.5/10",
+        "director": "Roman Polanski",
+        "film IMDb URL": "https://www.imdb.com//title/tt0253474/",
+        "Last Update Time": "17:50:38.547003"
+      }
+    ],
+    [
+      {
+        "film Title": "Terminator 2: Judgment Day",
+        "rate": "8.5/10",
+        "director": "James Cameron",
+        "film IMDb URL": "https://www.imdb.com//title/tt0103064/",
+        "Last Update Time": "17:50:38.690775"
+      }
+    ],
+    [
+      {
+        "film Title": "The Usual Suspects",
+        "rate": "8.5/10",
+        "director": "Bryan Singer",
+        "film IMDb URL": "https://www.imdb.com//title/tt0114814/",
+        "Last Update Time": "17:50:38.765959"
+      }
+    ],
+    [
+      {
+        "film Title": "The Lion King",
+        "rate": "8.5/10",
+        "director": "Roger Allers",
+        "film IMDb URL": "https://www.imdb.com//title/tt0110357/",
+        "Last Update Time": "17:50:38.829906"
+      }
+    ],
+    [
+      {
+        "film Title": "L\u00e9on: The Professional",
+        "rate": "8.5/10",
+        "director": "Luc Besson",
+        "film IMDb URL": "https://www.imdb.com//title/tt0110413/",
+        "Last Update Time": "17:50:38.864100"
+      }
+    ],
+    [
+      {
+        "film Title": "Harakiri",
+        "rate": "8.7/10",
+        "director": "Masaki Kobayashi",
+        "film IMDb URL": "https://www.imdb.com//title/tt0056058/",
+        "Last Update Time": "17:50:38.893402"
+      }
+    ],
+    [
+      {
+        "film Title": "The Green Mile",
+        "rate": "8.6/10",
+        "director": "Frank Darabont",
+        "film IMDb URL": "https://www.imdb.com//title/tt0120689/",
+        "Last Update Time": "17:50:39.278069"
+      }
+    ],
+    [
+      {
+        "film Title": "Spirited Away",
+        "rate": "8.6/10",
+        "director": "Hayao Miyazaki",
+        "film IMDb URL": "https://www.imdb.com//title/tt0245429/",
+        "Last Update Time": "17:50:39.416399"
+      }
+    ],
+    [
+      {
+        "film Title": "Saving Private Ryan",
+        "rate": "8.6/10",
+        "director": "Steven Spielberg",
+        "film IMDb URL": "https://www.imdb.com//title/tt0120815/",
+        "Last Update Time": "17:50:39.468511"
+      }
+    ],
+    [
+      {
+        "film Title": "Interstellar",
+        "rate": "8.6/10",
+        "director": "Christopher Nolan",
+        "film IMDb URL": "https://www.imdb.com//title/tt0816692/",
+        "Last Update Time": "17:50:39.514415"
+      }
+    ],
+    [
+      {
+        "film Title": "Parasite",
+        "rate": "8.6/10",
+        "director": "Bong Joon Ho",
+        "film IMDb URL": "https://www.imdb.com//title/tt6751668/",
+        "Last Update Time": "17:50:39.614589"
+      }
+    ],
+    [
+      {
+        "film Title": "It's a Wonderful Life",
+        "rate": "8.6/10",
+        "director": "Frank Capra",
+        "film IMDb URL": "https://www.imdb.com//title/tt0038650/",
+        "Last Update Time": "17:50:39.752108"
+      }
+    ],
+    [
+      {
+        "film Title": "City of God",
+        "rate": "8.6/10",
+        "director": "Fernando Meirelles",
+        "film IMDb URL": "https://www.imdb.com//title/tt0317248/",
+        "Last Update Time": "17:50:39.931204"
+      }
+    ],
+    [
+      {
+        "film Title": "Star Wars: Episode IV - A New Hope",
+        "rate": "8.6/10",
+        "director": "George Lucas",
+        "film IMDb URL": "https://www.imdb.com//title/tt0076759/",
+        "Last Update Time": "17:50:40.071250"
+      }
+    ],
+    [
+      {
+        "film Title": "Life Is Beautiful",
+        "rate": "8.6/10",
+        "director": "Roberto Benigni",
+        "film IMDb URL": "https://www.imdb.com//title/tt0118799/",
+        "Last Update Time": "17:50:40.242963"
+      }
+    ],
+    [
+      {
+        "film Title": "Se7en",
+        "rate": "8.6/10",
+        "director": "David Fincher",
+        "film IMDb URL": "https://www.imdb.com//title/tt0114369/",
+        "Last Update Time": "17:50:40.272215"
+      }
+    ],
+    [
+      {
+        "film Title": "The Silence of the Lambs",
+        "rate": "8.6/10",
+        "director": "Jonathan Demme",
+        "film IMDb URL": "https://www.imdb.com//title/tt0102926/",
+        "Last Update Time": "17:50:40.300649"
+      }
+    ],
+    [
+      {
+        "film Title": "The Dark Knight",
+        "rate": "9.0/10",
+        "director": "Christopher Nolan",
+        "film IMDb URL": "https://www.imdb.com//title/tt0468569/",
+        "Last Update Time": "17:50:40.590871"
+      }
+    ],
+    [
+      {
+        "film Title": "The Godfather",
+        "rate": "9.2/10",
+        "director": "Francis Ford Coppola",
+        "film IMDb URL": "https://www.imdb.com//title/tt0068646/",
+        "Last Update Time": "17:50:40.620203"
+      }
+    ],
+    [
+      {
+        "film Title": "The Godfather: Part II",
+        "rate": "9.0/10",
+        "director": "Francis Ford Coppola",
+        "film IMDb URL": "https://www.imdb.com//title/tt0071562/",
+        "Last Update Time": "17:50:40.772534"
+      }
+    ]
+  ]
+}
